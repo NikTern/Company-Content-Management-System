@@ -29,11 +29,16 @@ If the user selects the option to update an employee's role, they are prompted t
 If the user selects the option to exit the application, the database connection is closed and the application terminates.
 
 Github Repository:
-[![A video thumbnail shows the command-line employee management application.](./Assets/12-sql-homework-video-thumbnail.png)](https://2u-20.wistia.com/medias/2lnle7xnpk
+https://github.com/NikTern/Company-Content-Management-System
 
 Walkthrough Video:
-![Note App](Assets/Note-taking-screenshot.png)
+https://drive.google.com/file/d/1Z1cMQOP_bNvxg4-Ppvy6bH9yOV_v__oI/view?usp=sharing
 
+Screenshots:
+![CLI Inquirer Prompts Screenshot](Assets/CLI-screenshot-1.png)
+![View Departments CLI Screenshot](Assets/view-departments.png)
+![View Employees CLI Screenshot](Assets/view-employees.png)
+![View Roles CLI Screenshot](Assets/view-roles.png)
 
 ## License
 
